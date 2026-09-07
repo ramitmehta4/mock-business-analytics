@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd 
-from BA_PROJECT.Sessions_table import sessions_df
+from Sessions_table import sessions_df
 
 np.random.seed(45)
 
