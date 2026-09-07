@@ -1,0 +1,501 @@
+review_id,product_id,review_texts,ratings
+REV_00001,PROD_012,"Needed a replacement for my old one. I was worried about the sizing, and unfortunately it runs way too small. It's just okay, nothing special.",3
+REV_00002,PROD_031,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00003,PROD_004,"Needed a replacement for my old one. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00004,PROD_033,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",4
+REV_00005,PROD_032,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00006,PROD_022,"Got this as a gift. Hesitant about the material, but it feels premium. Exceeded my expectations.",4
+REV_00007,PROD_036,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00008,PROD_005,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00009,PROD_016,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. Not worth the price tag.",1
+REV_00010,PROD_002,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00011,PROD_015,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00012,PROD_009,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00013,PROD_024,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00014,PROD_047,"Been looking for something like this for weeks. Thought it might arrive late, and it actually got delayed by a week. Wouldn't recommend wasting your money.",1
+REV_00015,PROD_009,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00016,PROD_013,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00017,PROD_035,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00018,PROD_025,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00019,PROD_013,"Got this as a gift. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00020,PROD_018,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",4
+REV_00021,PROD_039,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00022,PROD_005,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00023,PROD_047,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00024,PROD_031,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00025,PROD_015,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00026,PROD_043,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00027,PROD_037,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00028,PROD_032,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00029,PROD_023,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00030,PROD_037,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",1
+REV_00031,PROD_016,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00032,PROD_018,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00033,PROD_007,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. Wouldn't recommend wasting your money.",1
+REV_00034,PROD_045,"Got this as a gift. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00035,PROD_043,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",4
+REV_00036,PROD_012,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",4
+REV_00037,PROD_041,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00038,PROD_009,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00039,PROD_050,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00040,PROD_014,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00041,PROD_012,"I bought this for an upcoming trip. Thought it might arrive late, and it actually got delayed by a week. Not worth the price tag.",2
+REV_00042,PROD_043,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00043,PROD_017,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00044,PROD_025,"Got this as a gift. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",2
+REV_00045,PROD_048,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00046,PROD_049,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00047,PROD_042,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00048,PROD_032,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00049,PROD_035,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00050,PROD_023,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00051,PROD_040,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00052,PROD_028,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00053,PROD_033,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00054,PROD_017,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00055,PROD_012,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00056,PROD_042,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00057,PROD_033,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00058,PROD_007,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00059,PROD_033,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00060,PROD_041,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",4
+REV_00061,PROD_017,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00062,PROD_039,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00063,PROD_029,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00064,PROD_025,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00065,PROD_006,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00066,PROD_018,"Saw an ad and decided to treat myself. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00067,PROD_030,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00068,PROD_016,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00069,PROD_004,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00070,PROD_020,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00071,PROD_028,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00072,PROD_015,"Needed a replacement for my old one. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00073,PROD_019,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00074,PROD_024,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",1
+REV_00075,PROD_021,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00076,PROD_010,"Saw an ad and decided to treat myself. Thought it might arrive late, and it actually got delayed by a week. Not worth the price tag.",1
+REV_00077,PROD_010,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00078,PROD_010,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00079,PROD_028,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00080,PROD_043,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00081,PROD_008,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Exceeded my expectations.",4
+REV_00082,PROD_015,"Got this as a gift. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00083,PROD_005,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00084,PROD_038,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00085,PROD_024,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. It's just okay, nothing special.",3
+REV_00086,PROD_012,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00087,PROD_045,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00088,PROD_042,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00089,PROD_040,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00090,PROD_007,"Got this as a gift. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00091,PROD_003,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00092,PROD_040,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00093,PROD_008,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00094,PROD_007,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00095,PROD_028,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",4
+REV_00096,PROD_048,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. It's just okay, nothing special.",3
+REV_00097,PROD_030,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",4
+REV_00098,PROD_020,"Got this as a gift. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00099,PROD_007,"Got this as a gift. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00100,PROD_049,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00101,PROD_015,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00102,PROD_042,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00103,PROD_046,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00104,PROD_038,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00105,PROD_043,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00106,PROD_008,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",4
+REV_00107,PROD_020,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",4
+REV_00108,PROD_022,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00109,PROD_022,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",2
+REV_00110,PROD_015,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00111,PROD_002,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00112,PROD_049,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00113,PROD_044,"I bought this for an upcoming trip. I was worried about the sizing, and unfortunately it runs way too small. Not worth the price tag.",1
+REV_00114,PROD_028,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00115,PROD_034,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00116,PROD_031,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. It's just okay, nothing special.",3
+REV_00117,PROD_044,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00118,PROD_010,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. It's just okay, nothing special.",3
+REV_00119,PROD_045,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00120,PROD_027,"I bought this for an upcoming trip. I was worried about the sizing, and unfortunately it runs way too small. It's just okay, nothing special.",3
+REV_00121,PROD_014,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00122,PROD_020,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00123,PROD_026,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00124,PROD_023,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00125,PROD_047,"Got this as a gift. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00126,PROD_050,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",4
+REV_00127,PROD_018,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00128,PROD_040,"Got this as a gift. I was worried about the sizing, and unfortunately it runs way too small. I'll be returning it.",2
+REV_00129,PROD_017,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00130,PROD_043,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00131,PROD_003,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00132,PROD_050,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00133,PROD_027,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00134,PROD_018,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00135,PROD_005,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00136,PROD_027,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00137,PROD_035,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00138,PROD_012,"Got this as a gift. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00139,PROD_019,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. It's just okay, nothing special.",3
+REV_00140,PROD_028,"I bought this for an upcoming trip. Thought it might arrive late, and it actually got delayed by a week. I'll be returning it.",1
+REV_00141,PROD_035,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00142,PROD_038,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00143,PROD_044,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00144,PROD_020,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00145,PROD_048,"Got this as a gift. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00146,PROD_032,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00147,PROD_032,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",1
+REV_00148,PROD_031,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00149,PROD_039,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00150,PROD_022,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",2
+REV_00151,PROD_013,"Got this as a gift. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00152,PROD_047,"Got this as a gift. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",1
+REV_00153,PROD_015,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00154,PROD_048,"I bought this for an upcoming trip. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00155,PROD_030,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00156,PROD_008,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00157,PROD_032,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00158,PROD_018,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00159,PROD_035,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00160,PROD_013,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00161,PROD_040,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00162,PROD_042,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00163,PROD_007,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00164,PROD_029,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00165,PROD_005,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00166,PROD_044,"Got this as a gift. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00167,PROD_046,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. I'll be returning it.",1
+REV_00168,PROD_037,"Got this as a gift. Thought it might arrive late, and it actually got delayed by a week. Not worth the price tag.",2
+REV_00169,PROD_038,"Saw an ad and decided to treat myself. I was worried about the sizing, and unfortunately it runs way too small. It's just okay, nothing special.",3
+REV_00170,PROD_037,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00171,PROD_002,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. It's just okay, nothing special.",3
+REV_00172,PROD_036,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00173,PROD_008,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00174,PROD_049,"Got this as a gift. I was worried about the sizing, and unfortunately it runs way too small. It's just okay, nothing special.",3
+REV_00175,PROD_044,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00176,PROD_016,"Needed a replacement for my old one. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00177,PROD_029,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00178,PROD_001,"Got this as a gift. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00179,PROD_022,"Got this as a gift. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00180,PROD_032,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00181,PROD_029,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00182,PROD_044,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00183,PROD_011,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00184,PROD_015,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00185,PROD_049,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00186,PROD_002,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00187,PROD_042,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00188,PROD_042,"I bought this for an upcoming trip. Thought it might arrive late, and it actually got delayed by a week. I'll be returning it.",2
+REV_00189,PROD_035,"I bought this for an upcoming trip. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00190,PROD_005,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00191,PROD_005,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00192,PROD_049,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00193,PROD_009,"Needed a replacement for my old one. I was worried about the sizing, and unfortunately it runs way too small. I'll be returning it.",1
+REV_00194,PROD_003,"Got this as a gift. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",4
+REV_00195,PROD_010,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00196,PROD_045,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00197,PROD_037,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00198,PROD_032,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00199,PROD_046,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00200,PROD_036,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00201,PROD_027,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00202,PROD_024,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00203,PROD_030,"Needed a replacement for my old one. Hesitant about the material, and it does feel a bit cheap. It's just okay, nothing special.",3
+REV_00204,PROD_042,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00205,PROD_003,"Been looking for something like this for weeks. Hesitant about the material, and it does feel a bit cheap. Not worth the price tag.",1
+REV_00206,PROD_041,"Got this as a gift. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00207,PROD_001,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00208,PROD_041,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00209,PROD_026,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00210,PROD_045,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00211,PROD_014,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. It's just okay, nothing special.",3
+REV_00212,PROD_021,"Got this as a gift. Thought it might arrive late, but shipping was fast. It's just okay, nothing special.",3
+REV_00213,PROD_033,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00214,PROD_032,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00215,PROD_019,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00216,PROD_038,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",4
+REV_00217,PROD_050,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",4
+REV_00218,PROD_027,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00219,PROD_034,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00220,PROD_047,"Got this as a gift. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00221,PROD_004,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00222,PROD_040,"Got this as a gift. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00223,PROD_001,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00224,PROD_014,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00225,PROD_017,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00226,PROD_011,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. It's just okay, nothing special.",3
+REV_00227,PROD_041,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00228,PROD_025,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, and the color is definitely off. Wouldn't recommend wasting your money.",1
+REV_00229,PROD_045,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00230,PROD_023,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. Wouldn't recommend wasting your money.",2
+REV_00231,PROD_028,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00232,PROD_025,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00233,PROD_024,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00234,PROD_022,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00235,PROD_003,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00236,PROD_010,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00237,PROD_019,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00238,PROD_006,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",4
+REV_00239,PROD_047,"Got this as a gift. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00240,PROD_041,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",4
+REV_00241,PROD_009,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00242,PROD_026,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00243,PROD_018,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",1
+REV_00244,PROD_027,"Got this as a gift. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00245,PROD_045,"Needed a replacement for my old one. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",2
+REV_00246,PROD_037,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00247,PROD_042,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00248,PROD_015,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00249,PROD_022,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00250,PROD_050,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00251,PROD_013,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00252,PROD_049,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00253,PROD_022,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00254,PROD_011,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. It's just okay, nothing special.",3
+REV_00255,PROD_003,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00256,PROD_023,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00257,PROD_002,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00258,PROD_043,"Got this as a gift. I was worried about the sizing, but it fits perfectly. It's just okay, nothing special.",3
+REV_00259,PROD_037,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00260,PROD_017,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00261,PROD_047,"Needed a replacement for my old one. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00262,PROD_042,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00263,PROD_020,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00264,PROD_013,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. It's just okay, nothing special.",3
+REV_00265,PROD_032,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00266,PROD_017,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00267,PROD_042,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",4
+REV_00268,PROD_013,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00269,PROD_016,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00270,PROD_047,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00271,PROD_048,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00272,PROD_038,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, and the color is definitely off. Wouldn't recommend wasting your money.",2
+REV_00273,PROD_028,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00274,PROD_011,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00275,PROD_020,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. It's just okay, nothing special.",3
+REV_00276,PROD_008,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00277,PROD_002,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00278,PROD_024,"Needed a replacement for my old one. Hesitant about the material, and it does feel a bit cheap. It's just okay, nothing special.",3
+REV_00279,PROD_050,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00280,PROD_012,"Been looking for something like this for weeks. I was worried about the sizing, and unfortunately it runs way too small. Not worth the price tag.",2
+REV_00281,PROD_004,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00282,PROD_014,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00283,PROD_030,"Needed a replacement for my old one. I was worried about the sizing, and unfortunately it runs way too small. Wouldn't recommend wasting your money.",2
+REV_00284,PROD_038,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00285,PROD_045,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00286,PROD_017,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00287,PROD_050,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00288,PROD_033,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00289,PROD_029,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00290,PROD_024,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00291,PROD_018,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00292,PROD_027,"I bought this for an upcoming trip. I was worried about the sizing, and unfortunately it runs way too small. Not worth the price tag.",1
+REV_00293,PROD_002,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00294,PROD_024,"Got this as a gift. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00295,PROD_022,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. It's just okay, nothing special.",3
+REV_00296,PROD_023,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00297,PROD_012,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00298,PROD_031,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",4
+REV_00299,PROD_005,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00300,PROD_001,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00301,PROD_048,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00302,PROD_024,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00303,PROD_012,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00304,PROD_046,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00305,PROD_001,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00306,PROD_015,"Got this as a gift. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00307,PROD_048,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00308,PROD_050,"Got this as a gift. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00309,PROD_028,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00310,PROD_003,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00311,PROD_047,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00312,PROD_009,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00313,PROD_025,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00314,PROD_017,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00315,PROD_041,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00316,PROD_014,"Got this as a gift. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00317,PROD_004,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00318,PROD_043,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00319,PROD_022,"Got this as a gift. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00320,PROD_024,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00321,PROD_047,"Saw an ad and decided to treat myself. Thought it might arrive late, and it actually got delayed by a week. Not worth the price tag.",1
+REV_00322,PROD_047,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00323,PROD_037,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00324,PROD_033,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00325,PROD_032,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00326,PROD_016,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00327,PROD_032,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00328,PROD_010,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00329,PROD_033,"Been looking for something like this for weeks. Thought it might arrive late, and it actually got delayed by a week. Not worth the price tag.",2
+REV_00330,PROD_032,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00331,PROD_040,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00332,PROD_050,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",4
+REV_00333,PROD_049,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00334,PROD_022,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00335,PROD_027,"Been looking for something like this for weeks. I was worried about the sizing, and unfortunately it runs way too small. Wouldn't recommend wasting your money.",2
+REV_00336,PROD_016,"Got this as a gift. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00337,PROD_041,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00338,PROD_018,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00339,PROD_046,"Got this as a gift. Wasn't sure if it would match the photos, and the color is definitely off. Very disappointed overall.",2
+REV_00340,PROD_009,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",1
+REV_00341,PROD_003,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00342,PROD_018,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00343,PROD_013,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00344,PROD_034,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00345,PROD_020,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00346,PROD_007,"Saw an ad and decided to treat myself. I was worried about the sizing, and unfortunately it runs way too small. Not worth the price tag.",1
+REV_00347,PROD_048,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00348,PROD_004,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00349,PROD_019,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00350,PROD_027,"Got this as a gift. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00351,PROD_004,"Been looking for something like this for weeks. I was worried about the sizing, and unfortunately it runs way too small. Very disappointed overall.",1
+REV_00352,PROD_003,"Got this as a gift. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00353,PROD_009,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00354,PROD_009,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00355,PROD_046,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Great value for the price.",4
+REV_00356,PROD_003,"I bought this for an upcoming trip. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00357,PROD_002,"Got this as a gift. Wasn't sure if it would match the photos, and the color is definitely off. Very disappointed overall.",1
+REV_00358,PROD_033,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00359,PROD_031,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. It's just okay, nothing special.",3
+REV_00360,PROD_034,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00361,PROD_034,"Needed a replacement for my old one. I was worried about the sizing, and unfortunately it runs way too small. It's just okay, nothing special.",3
+REV_00362,PROD_036,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00363,PROD_029,"Needed a replacement for my old one. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00364,PROD_048,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00365,PROD_003,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00366,PROD_030,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00367,PROD_050,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00368,PROD_031,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00369,PROD_009,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00370,PROD_019,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00371,PROD_031,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00372,PROD_029,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00373,PROD_008,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",4
+REV_00374,PROD_011,"Needed a replacement for my old one. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",1
+REV_00375,PROD_021,"Got this as a gift. Thought it might arrive late, and it actually got delayed by a week. Not worth the price tag.",2
+REV_00376,PROD_014,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Absolutely worth the money.",5
+REV_00377,PROD_047,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. It's just okay, nothing special.",3
+REV_00378,PROD_041,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00379,PROD_032,"Got this as a gift. Thought it might arrive late, and it actually got delayed by a week. I'll be returning it.",1
+REV_00380,PROD_047,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00381,PROD_017,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",4
+REV_00382,PROD_050,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. I'll be returning it.",1
+REV_00383,PROD_020,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. It's just okay, nothing special.",3
+REV_00384,PROD_025,"Needed a replacement for my old one. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",2
+REV_00385,PROD_045,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00386,PROD_002,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00387,PROD_014,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00388,PROD_021,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00389,PROD_046,"Got this as a gift. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00390,PROD_033,"Got this as a gift. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00391,PROD_024,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",1
+REV_00392,PROD_048,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00393,PROD_030,"Got this as a gift. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",1
+REV_00394,PROD_021,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00395,PROD_023,"Got this as a gift. Thought it might arrive late, and it actually got delayed by a week. I'll be returning it.",1
+REV_00396,PROD_031,"Got this as a gift. I was worried about the sizing, and unfortunately it runs way too small. It's just okay, nothing special.",3
+REV_00397,PROD_004,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. It's just okay, nothing special.",3
+REV_00398,PROD_045,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00399,PROD_033,"Got this as a gift. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00400,PROD_005,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00401,PROD_037,"I bought this for an upcoming trip. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00402,PROD_049,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",4
+REV_00403,PROD_010,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00404,PROD_006,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00405,PROD_023,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00406,PROD_034,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00407,PROD_016,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00408,PROD_008,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",5
+REV_00409,PROD_024,"Got this as a gift. Hesitant about the material, but it feels premium. Exceeded my expectations.",4
+REV_00410,PROD_031,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",2
+REV_00411,PROD_024,"Needed a replacement for my old one. Wasn't sure if it would match the photos, and the color is definitely off. It's just okay, nothing special.",3
+REV_00412,PROD_041,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00413,PROD_041,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00414,PROD_031,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00415,PROD_038,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00416,PROD_008,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00417,PROD_017,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",4
+REV_00418,PROD_029,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00419,PROD_026,"Been looking for something like this for weeks. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00420,PROD_036,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",4
+REV_00421,PROD_021,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00422,PROD_024,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. Not worth the price tag.",2
+REV_00423,PROD_009,"Got this as a gift. I was worried about the sizing, and unfortunately it runs way too small. Wouldn't recommend wasting your money.",1
+REV_00424,PROD_026,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00425,PROD_009,"I bought this for an upcoming trip. Hesitant about the material, and it does feel a bit cheap. Not worth the price tag.",1
+REV_00426,PROD_021,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00427,PROD_016,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00428,PROD_029,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00429,PROD_011,"Been looking for something like this for weeks. Thought it might arrive late, and it actually got delayed by a week. It's just okay, nothing special.",3
+REV_00430,PROD_004,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00431,PROD_029,"Been looking for something like this for weeks. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",4
+REV_00432,PROD_030,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00433,PROD_003,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00434,PROD_037,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",4
+REV_00435,PROD_021,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00436,PROD_048,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00437,PROD_004,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00438,PROD_047,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00439,PROD_015,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00440,PROD_026,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00441,PROD_030,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00442,PROD_032,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00443,PROD_026,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00444,PROD_021,"Got this as a gift. Hesitant about the material, but it feels premium. Great value for the price.",5
+REV_00445,PROD_014,"Saw an ad and decided to treat myself. Hesitant about the material, and it does feel a bit cheap. Very disappointed overall.",2
+REV_00446,PROD_003,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00447,PROD_034,"Got this as a gift. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00448,PROD_042,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00449,PROD_004,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00450,PROD_042,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. Wouldn't recommend wasting your money.",1
+REV_00451,PROD_046,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00452,PROD_030,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Exceeded my expectations.",4
+REV_00453,PROD_010,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00454,PROD_045,"Needed a replacement for my old one. I was worried about the sizing, and unfortunately it runs way too small. I'll be returning it.",2
+REV_00455,PROD_044,"Got this as a gift. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00456,PROD_019,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00457,PROD_022,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00458,PROD_041,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00459,PROD_019,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00460,PROD_041,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",5
+REV_00461,PROD_048,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00462,PROD_047,"Got this as a gift. Wasn't sure if it would match the photos, but it looks exactly the same. Exceeded my expectations.",4
+REV_00463,PROD_013,"Saw an ad and decided to treat myself. Thought it might arrive late, and it actually got delayed by a week. Wouldn't recommend wasting your money.",1
+REV_00464,PROD_023,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Great value for the price.",4
+REV_00465,PROD_030,"Got this as a gift. I was worried about the sizing, and unfortunately it runs way too small. I'll be returning it.",2
+REV_00466,PROD_009,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",5
+REV_00467,PROD_040,"I bought this for an upcoming trip. Thought it might arrive late, but shipping was fast. It's just okay, nothing special.",3
+REV_00468,PROD_008,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00469,PROD_010,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",5
+REV_00470,PROD_035,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00471,PROD_020,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Highly recommend it to anyone.",5
+REV_00472,PROD_027,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00473,PROD_028,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",5
+REV_00474,PROD_009,"Needed a replacement for my old one. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",4
+REV_00475,PROD_019,"I bought this for an upcoming trip. I was worried about the sizing, but it fits perfectly. Great value for the price.",4
+REV_00476,PROD_011,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",5
+REV_00477,PROD_024,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Great value for the price.",5
+REV_00478,PROD_005,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. It's just okay, nothing special.",3
+REV_00479,PROD_031,"Got this as a gift. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00480,PROD_043,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Great value for the price.",4
+REV_00481,PROD_048,"Needed a replacement for my old one. I was worried about the sizing, but it fits perfectly. Absolutely worth the money.",4
+REV_00482,PROD_050,"Got this as a gift. Wasn't sure if it would match the photos, and the color is definitely off. I'll be returning it.",2
+REV_00483,PROD_024,"Got this as a gift. Hesitant about the material, and it does feel a bit cheap. Not worth the price tag.",1
+REV_00484,PROD_046,"Got this as a gift. Thought it might arrive late, but shipping was fast. Great value for the price.",5
+REV_00485,PROD_050,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, but it looks exactly the same. Absolutely worth the money.",4
+REV_00486,PROD_015,"Needed a replacement for my old one. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00487,PROD_045,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",5
+REV_00488,PROD_023,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",5
+REV_00489,PROD_046,"Saw an ad and decided to treat myself. Thought it might arrive late, but shipping was fast. Exceeded my expectations.",5
+REV_00490,PROD_012,"Needed a replacement for my old one. Wasn't sure if it would match the photos, but it looks exactly the same. Highly recommend it to anyone.",4
+REV_00491,PROD_008,"Saw an ad and decided to treat myself. Hesitant about the material, but it feels premium. Absolutely worth the money.",5
+REV_00492,PROD_016,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Exceeded my expectations.",4
+REV_00493,PROD_033,"I bought this for an upcoming trip. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00494,PROD_009,"Got this as a gift. I was worried about the sizing, and unfortunately it runs way too small. I'll be returning it.",1
+REV_00495,PROD_036,"Saw an ad and decided to treat myself. I was worried about the sizing, but it fits perfectly. Highly recommend it to anyone.",5
+REV_00496,PROD_041,"Saw an ad and decided to treat myself. Wasn't sure if it would match the photos, and the color is definitely off. Wouldn't recommend wasting your money.",2
+REV_00497,PROD_017,"Been looking for something like this for weeks. I was worried about the sizing, but it fits perfectly. Exceeded my expectations.",4
+REV_00498,PROD_044,"Got this as a gift. Hesitant about the material, but it feels premium. Highly recommend it to anyone.",4
+REV_00499,PROD_036,"Been looking for something like this for weeks. Hesitant about the material, but it feels premium. Absolutely worth the money.",4
+REV_00500,PROD_008,"I bought this for an upcoming trip. Wasn't sure if it would match the photos, and the color is definitely off. I'll be returning it.",1
