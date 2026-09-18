@@ -1,25 +1,35 @@
+import pandas as pd
 import numpy as np
-import pandas as pd 
 
-np.random.seed(45)
+# Set a fixed random seed so the data generates exactly the same way every time
+np.random.seed(42)
 
-dates = pd.date_range("2025-04-01", "2025-06-30")
-days = len(dates)
+# Simulate realistic e-commerce traffic volume
+n_control = 99577
+n_variant = 100162
 
-#constructing variants 
-Var_1_df = pd.DataFrame({'Var':'A',
-                         'metric_date': dates })
-Var_1_df['user_exposed'] = np.random.randint(1000,1200 , size = days)
-Var_1_df['conversions'] = np.random.binomial(n = Var_1_df['user_exposed'], p = 0.50)
+# Set realistic conversion rates (around 3%) where Control slightly beats Variant
+# Control (A) = ~3.15% | Variant (B) = ~3.05%
+control_conversions = np.random.choice([0, 1], size=n_control, p=[0.9685, 0.0315])
+variant_conversions = np.random.choice([0, 1], size=n_variant, p=[0.9695, 0.0305])
+
+# Build the Control dataframe
+df_control = pd.DataFrame({
+    'Var': ['A'] * n_control,
+    'user_exposed': [1] * n_control,
+    'conversions': control_conversions
+})
+
+# Build the Variant dataframe
+df_variant = pd.DataFrame({
+    'Var': ['B'] * n_variant,
+    'user_exposed': [1] * n_variant,
+    'conversions': variant_conversions
+})
+
+# Combine and export to your data folder
+df_ab_test = pd.concat([df_control, df_variant], ignore_index=True)
+df_ab_test.to_csv('data-py-to-csv/ab_test_data.csv', index=False)
 
 
-Var_2_df = pd.DataFrame({'Var':'B',
-                         'metric_date': dates })
-
-Var_2_df['user_exposed'] = np.random.randint(1000,1200 , size = days)
-Var_2_df['conversions'] = np.random.binomial(n = Var_2_df['user_exposed'], p = 0.52)
-
-ab_test_df = pd.concat([Var_1_df,Var_2_df]).sort_values('metric_date')
-
-print(ab_test_df)
-ab_test_df.to_csv('ab_test_data.csv', index=False)
+print("Realistic A/B test data generated successfully!")
