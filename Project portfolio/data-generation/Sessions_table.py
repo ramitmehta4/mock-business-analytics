@@ -1,7 +1,8 @@
 import numpy as np
-import pandas as pd 
-from USER_TABLE import users_df
+import pandas as pd
 np.random.seed(45)
+
+users_df = pd.read_csv('users_data.csv')   
 
 total_sessions = 1800
 
