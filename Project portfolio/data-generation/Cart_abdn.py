@@ -1,8 +1,9 @@
 import numpy as np
-import pandas as pd 
-from Sessions_table import sessions_df
+import pandas as pd
 
 np.random.seed(45)
+
+sessions_df = pd.read_csv('sessions_data.csv', parse_dates=['session_start'])
 
 Abandoned_sessions = sessions_df[sessions_df['exit_page'].isin(['Cart', 'Checkout'])].copy()
 sessions_num = len(Abandoned_sessions)
