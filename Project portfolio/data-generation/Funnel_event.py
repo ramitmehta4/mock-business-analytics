@@ -1,15 +1,14 @@
 # Import your existing sessions table
 
-from BA_PROJECT.USER_TABLE import users_df
+import numpy as np
+import pandas as pd
 from datetime import timedelta
 
 np.random.seed(45)
-import pandas as pd
-import numpy as np
 
-# Import your existing sessions table
-from BA_PROJECT.Sessions_table import sessions_df
+sessions_df = pd.read_csv('sessions_data.csv', parse_dates=['session_start'])
 
+np.random.seed(44)
 
 # Define the exact sequential order matching your exit_pages
 ordered_stages = ['landing', 'Category', 'Product', 'Cart', 'Checkout', 'Thank_you']
