@@ -1,0 +1,11 @@
+user_segment,stage,current_volume,previous_volume,users_lost,dropoff_percentage
+New User,landing,1469,NULL,NULL,NULL
+New User,category,900,1469,569,38.73
+New User,product,531,900,369,41.0
+New User,cart,296,531,235,44.26
+New User,checkout,149,296,147,49.66
+Returning User,landing,331,NULL,NULL,NULL
+Returning User,category,182,331,149,45.02
+Returning User,product,104,182,78,42.86
+Returning User,cart,70,104,34,32.69
+Returning User,checkout,30,70,40,57.14
