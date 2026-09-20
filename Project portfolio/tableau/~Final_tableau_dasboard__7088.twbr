@@ -1,0 +1,1105 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20262.26.0819.2015                               -->
+<workbook _.fcp.WorkbookFingerprinting.true...author-id='f2c765f195332b98a78edb8902f53ff726121e3a8bcfbbc03e9294084cc85aa6' _.fcp.WorkbookFingerprinting.true...creator-author-id='f2c765f195332b98a78edb8902f53ff726121e3a8bcfbbc03e9294084cc85aa6' _.fcp.WorkbookFingerprinting.true...creator-license-type='free' _.fcp.WorkbookFingerprinting.true...creator-machine-id='56e3acacf2d3ddf619c815073fb0162c59533bed4535949ded10182fa56e5980' _.fcp.WorkbookFingerprinting.true...license-type='free' _.fcp.WorkbookFingerprinting.true...machine-id='56e3acacf2d3ddf619c815073fb0162c59533bed4535949ded10182fa56e5980' original-version='18.1' source-build='2026.2.2 (20262.26.0819.2015)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+    <_.fcp.WorkbookFingerprinting.true...WorkbookFingerprinting />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='ab_test_data' inline='true' name='federated.0yac12i11779xy17zhx6n0m8r7tk' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='ab_test_data' name='textscan.191f9a20v326z21266nz71cl5la2'>
+            <connection class='textscan' directory='C:/Users/91928/Project portfolio/data-py-to-csv' filename='ab_test_data.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.191f9a20v326z21266nz71cl5la2' name='ab_test_data.csv' table='[ab_test_data#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+            <column datatype='string' name='Var' ordinal='0' />
+            <column datatype='date' name='metric_date' ordinal='1' />
+            <column datatype='integer' name='user_exposed' ordinal='2' />
+            <column datatype='integer' name='conversions' ordinal='3' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[ab_test_data.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;₹&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_IN&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Var</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Var]</local-name>
+            <parent-name>[ab_test_data.csv]</parent-name>
+            <remote-alias>Var</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[ab_test_data.csv_B39FB96731E24D99969DD7AFEA6C086C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>metric_date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[metric_date]</local-name>
+            <parent-name>[ab_test_data.csv]</parent-name>
+            <remote-alias>metric_date</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[ab_test_data.csv_B39FB96731E24D99969DD7AFEA6C086C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>user_exposed</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[user_exposed]</local-name>
+            <parent-name>[ab_test_data.csv]</parent-name>
+            <remote-alias>user_exposed</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[ab_test_data.csv_B39FB96731E24D99969DD7AFEA6C086C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>conversions</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[conversions]</local-name>
+            <parent-name>[ab_test_data.csv]</parent-name>
+            <remote-alias>conversions</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[ab_test_data.csv_B39FB96731E24D99969DD7AFEA6C086C]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Conversion Rate ' datatype='real' name='[Calculation_0487130534162432]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([conversions]) / SUM([user_exposed])' />
+      </column>
+      <column caption='ab_test_data.csv' datatype='table' name='[__tableau_internal_object_id__].[ab_test_data.csv_B39FB96731E24D99969DD7AFEA6C086C]' role='measure' type='quantitative' />
+      <column caption='Conversions' datatype='integer' name='[conversions]' role='measure' type='quantitative' />
+      <column caption='Metric Date' datatype='date' name='[metric_date]' role='dimension' type='ordinal' />
+      <column caption='User Exposed' datatype='integer' name='[user_exposed]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United Kingdom&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='ab_test_data.csv' id='ab_test_data.csv_B39FB96731E24D99969DD7AFEA6C086C'>
+            <properties context=''>
+              <relation connection='textscan.191f9a20v326z21266nz71cl5la2' name='ab_test_data.csv' table='[ab_test_data#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+                  <column datatype='string' name='Var' ordinal='0' />
+                  <column datatype='date' name='metric_date' ordinal='1' />
+                  <column datatype='integer' name='user_exposed' ordinal='2' />
+                  <column datatype='integer' name='conversions' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='user_output_q2csv' inline='true' name='federated.1n7opup15g45jc17cco871vhbeiy' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='user_output_q2csv' name='textscan.15cp1eu098ztso111by2t00j68ro'>
+            <connection class='textscan' directory='C:/Users/91928/Project portfolio/sql' filename='user_output_q2csv.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.15cp1eu098ztso111by2t00j68ro' name='user_output_q2csv.csv' table='[user_output_q2csv#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+            <column datatype='string' name='user_segment' ordinal='0' />
+            <column datatype='string' name='stage' ordinal='1' />
+            <column datatype='integer' name='current_volume' ordinal='2' />
+            <column datatype='integer' name='previous_volume' ordinal='3' />
+            <column datatype='integer' name='users_lost' ordinal='4' />
+            <column datatype='real' name='dropoff_percentage' ordinal='5' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[user_output_q2csv.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;₹&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_IN&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>user_segment</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[user_segment]</local-name>
+            <parent-name>[user_output_q2csv.csv]</parent-name>
+            <remote-alias>user_segment</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>stage</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[stage]</local-name>
+            <parent-name>[user_output_q2csv.csv]</parent-name>
+            <remote-alias>stage</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>current_volume</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[current_volume]</local-name>
+            <parent-name>[user_output_q2csv.csv]</parent-name>
+            <remote-alias>current_volume</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>previous_volume</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[previous_volume]</local-name>
+            <parent-name>[user_output_q2csv.csv]</parent-name>
+            <remote-alias>previous_volume</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>users_lost</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[users_lost]</local-name>
+            <parent-name>[user_output_q2csv.csv]</parent-name>
+            <remote-alias>users_lost</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dropoff_percentage</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[dropoff_percentage]</local-name>
+            <parent-name>[user_output_q2csv.csv]</parent-name>
+            <remote-alias>dropoff_percentage</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='user_output_q2csv.csv' datatype='table' name='[__tableau_internal_object_id__].[user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E]' role='measure' type='quantitative' />
+      <column caption='Current Volume' datatype='integer' name='[current_volume]' role='measure' type='quantitative' />
+      <column caption='Dropoff Percentage' datatype='real' name='[dropoff_percentage]' role='measure' type='quantitative' />
+      <column caption='Previous Volume' datatype='integer' name='[previous_volume]' role='measure' type='quantitative' />
+      <column caption='Stage' datatype='string' name='[stage]' role='dimension' type='nominal' />
+      <column caption='User Segment' datatype='string' name='[user_segment]' role='dimension' type='nominal' />
+      <column caption='Users Lost' datatype='integer' name='[users_lost]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United Kingdom&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='user_output_q2csv.csv' id='user_output_q2csv.csv_6B3FD433B94A4376A09C47F376DAE43E'>
+            <properties context=''>
+              <relation connection='textscan.15cp1eu098ztso111by2t00j68ro' name='user_output_q2csv.csv' table='[user_output_q2csv#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+                  <column datatype='string' name='user_segment' ordinal='0' />
+                  <column datatype='string' name='stage' ordinal='1' />
+                  <column datatype='integer' name='current_volume' ordinal='2' />
+                  <column datatype='integer' name='previous_volume' ordinal='3' />
+                  <column datatype='integer' name='users_lost' ordinal='4' />
+                  <column datatype='real' name='dropoff_percentage' ordinal='5' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='user_output_q1csv' inline='true' name='federated.0l3x10h0qjt2m115znsla10fegj8' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='user_output_q1csv' name='textscan.0yh94wg1lr5bp81e7d7ni16t2tow'>
+            <connection class='textscan' directory='C:/Users/91928/Project portfolio/sql' filename='user_output_q1csv.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0yh94wg1lr5bp81e7d7ni16t2tow' name='user_output_q1csv.csv' table='[user_output_q1csv#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+            <column datatype='string' name='user_segment' ordinal='0' />
+            <column datatype='string' name='stage' ordinal='1' />
+            <column datatype='integer' name='current_volume' ordinal='2' />
+            <column datatype='integer' name='previous_volume' ordinal='3' />
+            <column datatype='integer' name='users_lost' ordinal='4' />
+            <column datatype='real' name='dropoff_percentage' ordinal='5' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[user_output_q1csv.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;₹&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_IN&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>user_segment</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[user_segment]</local-name>
+            <parent-name>[user_output_q1csv.csv]</parent-name>
+            <remote-alias>user_segment</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>stage</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[stage]</local-name>
+            <parent-name>[user_output_q1csv.csv]</parent-name>
+            <remote-alias>stage</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>current_volume</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[current_volume]</local-name>
+            <parent-name>[user_output_q1csv.csv]</parent-name>
+            <remote-alias>current_volume</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>previous_volume</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[previous_volume]</local-name>
+            <parent-name>[user_output_q1csv.csv]</parent-name>
+            <remote-alias>previous_volume</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>users_lost</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[users_lost]</local-name>
+            <parent-name>[user_output_q1csv.csv]</parent-name>
+            <remote-alias>users_lost</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dropoff_percentage</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[dropoff_percentage]</local-name>
+            <parent-name>[user_output_q1csv.csv]</parent-name>
+            <remote-alias>dropoff_percentage</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='user_output_q1csv.csv' datatype='table' name='[__tableau_internal_object_id__].[user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE]' role='measure' type='quantitative' />
+      <column caption='Current Volume' datatype='integer' name='[current_volume]' role='measure' type='quantitative' />
+      <column caption='Dropoff Percentage' datatype='real' name='[dropoff_percentage]' role='measure' type='quantitative' />
+      <column caption='Previous Volume' datatype='integer' name='[previous_volume]' role='measure' type='quantitative' />
+      <column caption='Stage' datatype='string' name='[stage]' role='dimension' type='nominal' />
+      <column caption='User Segment' datatype='string' name='[user_segment]' role='dimension' type='nominal' />
+      <column caption='Users Lost' datatype='integer' name='[users_lost]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United Kingdom&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='user_output_q1csv.csv' id='user_output_q1csv.csv_77125447A50B48C4AC729F55BE1FF8AE'>
+            <properties context=''>
+              <relation connection='textscan.0yh94wg1lr5bp81e7d7ni16t2tow' name='user_output_q1csv.csv' table='[user_output_q1csv#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+                  <column datatype='string' name='user_segment' ordinal='0' />
+                  <column datatype='string' name='stage' ordinal='1' />
+                  <column datatype='integer' name='current_volume' ordinal='2' />
+                  <column datatype='integer' name='previous_volume' ordinal='3' />
+                  <column datatype='integer' name='users_lost' ordinal='4' />
+                  <column datatype='real' name='dropoff_percentage' ordinal='5' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='ICE_Backlog (Epic_5_Prioritization_Model_PROJECT_READY)' inline='true' name='federated.19bkg9l0i7zkgt1f4lu3t01uvqyn' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Epic_5_Prioritization_Model_PROJECT_READY' name='excel-direct.1ki9cva09cfels1b7jzyw0pet2t3'>
+            <connection class='excel-direct' cleaning='yes' compat='no' dataRefreshTime='' filename='C:/Users/91928/Project portfolio/excel/Epic_5_Prioritization_Model_PROJECT_READY.xlsx' interpretationMode='1' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <relation connection='excel-direct.1ki9cva09cfels1b7jzyw0pet2t3' name='ICE_Backlog' table='[ICE_Backlog$]' type='table'>
+          <columns gridOrigin='A1:M11:no:A1:M11:1' header='no' lost='0' outcome='1' processed='48'>
+            <column datatype='string' name='Fix ID' ordinal='0' />
+            <column datatype='string' name='Proposed Fix' ordinal='1' />
+            <column datatype='string' name='Reason' ordinal='2' />
+            <column datatype='integer' name='Impact Score (1–10)' ordinal='3' />
+            <column datatype='integer' name='Confidence (1–10)' ordinal='4' />
+            <column datatype='integer' name='Ease (1–10)' ordinal='5' />
+            <column datatype='real' name='ICE Score' ordinal='6' />
+            <column datatype='integer' name='Rank' ordinal='7' />
+            <column datatype='real' name='Reason Share' ordinal='8' />
+            <column datatype='real' name='Recoverable Revenue' ordinal='9' />
+            <column datatype='real' name='Projected Monthly Revenue' ordinal='10' />
+            <column datatype='string' name='Status' ordinal='11' />
+            <column datatype='string' name='Rationale' ordinal='12' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>3</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:M11:no:A1:M11:1&quot;</attribute>
+              <attribute datatype='integer' name='lost'>0</attribute>
+              <attribute datatype='integer' name='outcome'>1</attribute>
+              <attribute datatype='integer' name='processed'>48</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fix ID</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Fix ID]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Fix ID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Proposed Fix</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Proposed Fix]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Proposed Fix</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Reason</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Reason]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Reason</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Impact Score (1–10)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Impact Score (1–10)]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Impact Score (1–10)</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Confidence (1–10)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Confidence (1–10)]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Confidence (1–10)</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ease (1–10)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Ease (1–10)]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Ease (1–10)</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ICE Score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[ICE Score]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>ICE Score</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rank</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Rank]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Rank</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Reason Share</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Reason Share]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Reason Share</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Recoverable Revenue</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Recoverable Revenue]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Recoverable Revenue</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Projected Monthly Revenue</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Projected Monthly Revenue]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Projected Monthly Revenue</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Status</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Status]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Status</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rationale</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Rationale]</local-name>
+            <parent-name>[ICE_Backlog]</parent-name>
+            <remote-alias>Rationale</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='ICE_Backlog' datatype='table' name='[__tableau_internal_object_id__].[ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United Kingdom&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='ICE_Backlog' id='ICE!Backlog_5FB882E1CE104FFB9EE135E8156ECB2D'>
+            <properties context=''>
+              <relation connection='excel-direct.1ki9cva09cfels1b7jzyw0pet2t3' name='ICE_Backlog' table='[ICE_Backlog$]' type='table'>
+                <columns gridOrigin='A1:M11:no:A1:M11:1' header='no' lost='0' outcome='1' processed='48'>
+                  <column datatype='string' name='Fix ID' ordinal='0' />
+                  <column datatype='string' name='Proposed Fix' ordinal='1' />
+                  <column datatype='string' name='Reason' ordinal='2' />
+                  <column datatype='integer' name='Impact Score (1–10)' ordinal='3' />
+                  <column datatype='integer' name='Confidence (1–10)' ordinal='4' />
+                  <column datatype='integer' name='Ease (1–10)' ordinal='5' />
+                  <column datatype='real' name='ICE Score' ordinal='6' />
+                  <column datatype='integer' name='Rank' ordinal='7' />
+                  <column datatype='real' name='Reason Share' ordinal='8' />
+                  <column datatype='real' name='Recoverable Revenue' ordinal='9' />
+                  <column datatype='real' name='Projected Monthly Revenue' ordinal='10' />
+                  <column datatype='string' name='Status' ordinal='11' />
+                  <column datatype='string' name='Rationale' ordinal='12' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='AB_Test_Trend'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='ab_test_data' name='federated.0yac12i11779xy17zhx6n0m8r7tk' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0yac12i11779xy17zhx6n0m8r7tk'>
+            <column caption='Conversion Rate ' datatype='real' name='[Calculation_0487130534162432]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM([conversions]) / SUM([user_exposed])' />
+            </column>
+            <column datatype='string' name='[Var]' role='dimension' type='nominal' />
+            <column caption='Conversions' datatype='integer' name='[conversions]' role='measure' type='quantitative' />
+            <column caption='Metric Date' datatype='date' name='[metric_date]' role='dimension' type='ordinal' />
+            <column-instance column='[Var]' derivation='None' name='[none:Var:nk]' pivot='key' type='nominal' />
+            <column-instance column='[metric_date]' derivation='None' name='[none:metric_date:qk]' pivot='key' type='quantitative' />
+            <column caption='User Exposed' datatype='integer' name='[user_exposed]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_0487130534162432]' derivation='User' name='[usr:Calculation_0487130534162432:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='label'>
+            <format attr='text-format' field='[federated.0yac12i11779xy17zhx6n0m8r7tk].[usr:Calculation_0487130534162432:qk]' value='p0.00%' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0yac12i11779xy17zhx6n0m8r7tk].[none:Var:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0yac12i11779xy17zhx6n0m8r7tk].[usr:Calculation_0487130534162432:qk]</rows>
+        <cols>[federated.0yac12i11779xy17zhx6n0m8r7tk].[none:metric_date:qk]</cols>
+      </table>
+      <simple-id uuid='{365742DD-515E-483A-82C2-E38E918200F1}' />
+    </worksheet>
+    <worksheet name='Funnel_Diagnosis'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='user_output_q1csv' name='federated.0l3x10h0qjt2m115znsla10fegj8' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0l3x10h0qjt2m115znsla10fegj8'>
+            <column caption='Current Volume' datatype='integer' name='[current_volume]' role='measure' type='quantitative' />
+            <column caption='Dropoff Percentage' datatype='real' name='[dropoff_percentage]' role='measure' type='quantitative' />
+            <column-instance column='[stage]' derivation='None' name='[none:stage:nk]' pivot='key' type='nominal' />
+            <column-instance column='[user_segment]' derivation='None' name='[none:user_segment:nk]' pivot='key' type='nominal' />
+            <column caption='Stage' datatype='string' name='[stage]' role='dimension' type='nominal' />
+            <column-instance column='[current_volume]' derivation='Sum' name='[sum:current_volume:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[dropoff_percentage]' derivation='Sum' name='[sum:dropoff_percentage:qk]' pivot='key' type='quantitative' />
+            <column caption='User Segment' datatype='string' name='[user_segment]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0l3x10h0qjt2m115znsla10fegj8].[none:stage:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;landing&quot;</bucket>
+              <bucket>&quot;category&quot;</bucket>
+              <bucket>&quot;product&quot;</bucket>
+              <bucket>&quot;cart&quot;</bucket>
+              <bucket>&quot;checkout&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0l3x10h0qjt2m115znsla10fegj8].[none:user_segment:nk]'>
+            <groupfilter function='level-members' level='[none:user_segment:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0l3x10h0qjt2m115znsla10fegj8].[none:user_segment:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.0l3x10h0qjt2m115znsla10fegj8].[sum:dropoff_percentage:qk]' value='p0.0%' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0l3x10h0qjt2m115znsla10fegj8].[sum:dropoff_percentage:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0l3x10h0qjt2m115znsla10fegj8].[none:stage:nk]</rows>
+        <cols>[federated.0l3x10h0qjt2m115znsla10fegj8].[sum:current_volume:qk]</cols>
+      </table>
+      <simple-id uuid='{BCE73BBC-7EDF-4ADB-9535-B850C6770F61}' />
+    </worksheet>
+    <worksheet name='ICE_Priority_Backlog'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='ICE_Backlog (Epic_5_Prioritization_Model_PROJECT_READY)' name='federated.19bkg9l0i7zkgt1f4lu3t01uvqyn' />
+          </datasources>
+          <datasource-dependencies datasource='federated.19bkg9l0i7zkgt1f4lu3t01uvqyn'>
+            <column datatype='real' name='[ICE Score]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Projected Monthly Revenue]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Proposed Fix]' role='dimension' type='nominal' />
+            <column-instance column='[Proposed Fix]' derivation='None' name='[none:Proposed Fix:nk]' pivot='key' type='nominal' />
+            <column-instance column='[ICE Score]' derivation='Sum' name='[sum:ICE Score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Projected Monthly Revenue]' derivation='Sum' name='[sum:Projected Monthly Revenue:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[none:Proposed Fix:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[sum:ICE Score:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[sum:Projected Monthly Revenue:qk]' />
+              <text column='[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[sum:ICE Score:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[none:Proposed Fix:nk]</rows>
+        <cols>[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[sum:ICE Score:qk]</cols>
+      </table>
+      <simple-id uuid='{A4BB609D-53EF-4689-AD59-7ACEDDE90CE4}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard 1'>
+      <style />
+      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
+      <datasources>
+        <datasource caption='user_output_q1csv' name='federated.0l3x10h0qjt2m115znsla10fegj8' />
+      </datasources>
+      <datasource-dependencies datasource='federated.0l3x10h0qjt2m115znsla10fegj8'>
+        <column-instance column='[user_segment]' derivation='None' name='[none:user_segment:nk]' pivot='key' type='nominal' />
+        <column caption='User Segment' datatype='string' name='[user_segment]' role='dimension' type='nominal' />
+      </datasource-dependencies>
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98000' id='7' param='horz' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='98000' id='5' type-v2='layout-basic' w='82400' x='800' y='1000'>
+              <zone h='49000' id='3' name='Funnel_Diagnosis' w='82400' x='800' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='49000' id='11' name='ICE_Priority_Backlog' w='41200' x='42000' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='49000' id='13' name='AB_Test_Trend' w='41200' x='800' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone fixed-size='160' h='98000' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='16000' x='83200' y='1000'>
+              <zone h='13125' id='8' name='Funnel_Diagnosis' param='[federated.0l3x10h0qjt2m115znsla10fegj8].[none:user_segment:nk]' type-v2='filter' w='16000' x='83200' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='9125' id='12' name='ICE_Priority_Backlog' pane-specification-id='0' param='[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[sum:Projected Monthly Revenue:qk]' type-v2='color' w='16000' x='83200' y='14125'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='9000' id='14' name='AB_Test_Trend' pane-specification-id='0' param='[federated.0yac12i11779xy17zhx6n0m8r7tk].[none:Var:nk]' type-v2='color' w='16000' x='83200' y='23250'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='16' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='15' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+                <zone h='13125' id='8' mode='checkdropdown' name='Funnel_Diagnosis' param='[federated.0l3x10h0qjt2m115znsla10fegj8].[none:user_segment:nk]' type-v2='filter' w='16000' x='83200' y='1000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='49000' id='3' is-fixed='true' name='Funnel_Diagnosis' w='82400' x='800' y='1000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='49000' id='13' is-fixed='true' name='AB_Test_Trend' w='41200' x='800' y='50000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='9000' id='14' name='AB_Test_Trend' pane-specification-id='0' param='[federated.0yac12i11779xy17zhx6n0m8r7tk].[none:Var:nk]' type-v2='color' w='16000' x='83200' y='23250'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='49000' id='11' is-fixed='true' name='ICE_Priority_Backlog' w='41200' x='42000' y='50000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='9125' id='12' name='ICE_Priority_Backlog' pane-specification-id='0' param='[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[sum:Projected Monthly Revenue:qk]' type-v2='color' w='16000' x='83200' y='14125'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{D742128C-6C50-4141-855D-2381FE1FECFD}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.25' source-height='115'>
+    <window class='worksheet' name='AB_Test_Trend'>
+      <cards>
+        <edge name='left'>
+          <strip size='100'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0yac12i11779xy17zhx6n0m8r7tk].[none:Var:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E9B63B05-3B90-4C6F-BE1B-9D2BBA946385}' />
+    </window>
+    <window class='worksheet' name='Funnel_Diagnosis'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0l3x10h0qjt2m115znsla10fegj8].[none:user_segment:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{0DBCDC34-A88D-4E75-8984-C94F10B963C3}' />
+    </window>
+    <window class='worksheet' name='ICE_Priority_Backlog'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.19bkg9l0i7zkgt1f4lu3t01uvqyn].[sum:Projected Monthly Revenue:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F73EAC98-8645-4F20-80D2-A570964A78CE}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='AB_Test_Trend'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Funnel_Diagnosis' />
+        <viewpoint name='ICE_Priority_Backlog' />
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{72D332E8-2CA1-4F80-AAB3-9C297A65E8D5}' />
+    </window>
+  </windows>
+</workbook>
