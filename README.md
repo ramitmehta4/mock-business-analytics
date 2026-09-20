@@ -22,7 +22,7 @@ This analysis flexes three core analytical muscles—funnel segmentation, statis
 ## Repository Structure
 * `/data-generation`: Python scripts (`USER_TABLE.py`, `Sessions_table.py`, etc.) generating the foundational CSV datasets.
 * `/sql`: Queries demonstrating cohort splits and retention tracking.
-* `/python`: Jupyter Notebooks executing the statistical A/B test audit and clustering.
+* `/python`: Python scripts (`Q2.py`, `Q3.py`) executing the statistical A/B test audit and clustering.
 * `/excel`: The prioritization scoring model and dynamic revenue calculator.
 * `/tableau`: Dashboard files and visual assets.
 * `/docs`: Detailed write-ups formatted as *Situation → Question → Method → Finding → Recommendation → Estimated Impact*.
