@@ -1,10 +1,7 @@
-from BA_PROJECT.USER_TABLE import users_df
-from BA_PROJECT.Sessions_table import sessions_df
-from BA_PROJECT.Funnel_event import funnel_events_df
 import numpy as np
-import pandas as pd 
+import pandas as pd
 
-np.random.seed(45)
+users_df = pd.read_csv('users_data.csv')
 
 # Define total orders 
 total_orders = 850
